@@ -24,3 +24,6 @@ void manusia::showNilaipelajar(peelajar &x)
 }
 
 int main()
+{
+    manusia budi;
+}
