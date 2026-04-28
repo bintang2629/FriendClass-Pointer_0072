@@ -19,3 +19,8 @@ public:
 };
 
 void manusia::showNilaipelajar(peelajar &x)
+{
+    cout << x.nilai;
+}
+
+int main()
